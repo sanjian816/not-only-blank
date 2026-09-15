@@ -26,7 +26,7 @@
 
 ## 文件
 
-- `index.html`：独立习读版，含完整字体和原版画册；可下载后直接用浏览器打开。
+- `index.html`：独立习读版，含语录与常用字字体及原版画册；可下载后直接用浏览器打开。
 - `.nojekyll`：GitHub Pages 直接提供静态文件。
 - `FONT-LICENSES.md`：嵌入字体 Noto Serif SC、Instrument Serif 的许可证。
 
