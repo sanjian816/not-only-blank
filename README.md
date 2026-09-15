@@ -4,6 +4,8 @@
 
 **[在线习读](https://sanjian816.github.io/not-only-blank/)**
 
+国内免登录接龙入口：[《不只是留白》· 同行习读](https://bcn4pj4eytoh.feishuapp.com/app/app_17e5mrxyyzn)。两个在线版本使用同一份公开感悟。
+
 52 则语录，六章习读。由反思走向平和，也回到每一天具体的生活。
 
 ## 怎么读
